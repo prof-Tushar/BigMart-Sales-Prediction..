@@ -5,6 +5,7 @@ There is a Grocessary Store company, they have several stores around the world &
 
 Application of our prediction for company 
 
+
 Predict sales revenue
 Aid future marketting plans
 Perceive challenges early
