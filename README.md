@@ -11,3 +11,5 @@ Aid future marketting plans
 Perceive challenges early
 Motivate sales team
 Plan recruitment strategy.
+
+.
